@@ -15,7 +15,7 @@ En este ejercicio, se solicita al usuario que ingrese un número como cadena de 
 
 En este ejercicio, se solicita al usuario que ingrese un valor y se muestra en la consola el tipo de dato utilizando el operador `typeof`.
 
-## TypeOf 🧐🔄
+## TypeOf 🔄
 
 **Ejercicio 1: Verificación de tipo de variable** 🧪🔢
 
