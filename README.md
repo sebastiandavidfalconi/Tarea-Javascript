@@ -3,7 +3,7 @@
 # Asignatura: Desarrollo Web para Integraciones
 # Tarea de Ejercicios de Programación en JavaScript 🚀💻
 
-Este repositorio contiene una serie de ejercicios de programación en JavaScript que abarcan diferentes conceptos y temas. A continuación, se detallan los 12 ejercicios incluidos:
+Este repositorio contiene una serie de ejercicios de programación en JavaScript que abarcan diferentes conceptos y temas. A continuación, se detallan los 10 ejercicios incluidos:
 
 ## Tipos de Datos Primitivos 📚🔢🔤
 
